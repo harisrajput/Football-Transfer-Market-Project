@@ -1,0 +1,7 @@
+1|    Paulo Dybala           29   3    Attacker    Italy     €340
+2|    Cristiao Ronaldo       35   2    Attacker    Portugal  €420
+3|    Juan Cuadrado          31   4    Attacker    Colombia  €300
+4|    Abdullah Akhter        19   5    Attacker    Pakistan  €410
+5|    Leonardo Bonucci       35   4    Defender    Italy     €290
+6|    Gianluigi Buffon       38   3    Goalkeeper  Italy     €340
+7|    Giorgio Chiellini      36   2    Defender    Italy     €310

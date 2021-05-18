@@ -1,0 +1,7 @@
+1|    Sergio Ramos           35   5    Defender    Spain     €340
+2|    David de Gea           34   5    Goalkeeper  Spain     €320
+3|    Anthony Martial        24   3    Attacker    France    €270
+4|    Marcus Rashford        21   4    Attacker    England   €260
+5|    Phil Jones             27   2    Defender    England   €250
+6|    Ryan Giggs             42   1    Attacker    Wales     €400
+7|    Luke Shaw              28   3    Defender    England   €255

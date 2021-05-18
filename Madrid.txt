@@ -1,0 +1,7 @@
+1|    Dani Carvajal          31   4    Defender    Spain     €310
+2|    Eden Hazard            30   4    Attacker    Belgium   €315
+3|    Karim Benzema          33   3    Attacker    France    €300
+4|    Marcelo Vieira         32   3    Defender    Brazil    €330
+5|    Thibaut Courtois       33   2    Goalkeeper  Belgium   €300
+6|    James Rodriguez        30   4    Attacker    Spain     €320
+7|    Rahman Khan            36   2    Goalkeeper  Syria     €310
