@@ -1,0 +1,7 @@
+1|    Wilfredo Caballero     23   4    Defender    UK        €240
+2|    Alex Jenson            22   3    Attacker    Germany   €100
+3|    Didier Drogba          30   2    Attacker    Ivorian   €400
+4|    Sir Haris              20   5    Attacker    Pakistan  €350
+5|    Oscar dos Santos       28   3    Attacker    Brazil    €250
+6|    Iker Casillas          38   3    Goalkeeper  Spain     €380
+7|    Jérôme Boateng         33   3    Defender    Germany   €290

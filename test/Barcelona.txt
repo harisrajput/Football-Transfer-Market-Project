@@ -1,0 +1,7 @@
+1|    Luis Suarez            29   3    Attacker    Ukraine   €350
+2|    Lionel Messi           34   2    Attacker    Argentina €400
+3|    Gerard Pique           32   3    Defender    Spain     €300
+4|    Andre ter Stegen       30   4    Goalkeeper  Germany   €260
+5|    Ousmane Dembele        27   5    Attacker    France    €240
+6|    Jordi Alba             33   5    Defender    Spain     €240
+7|    Sergi Roberto          28   4    Defender    Spain     €260
